@@ -1,0 +1,9 @@
+echo off
+rem create Folder "Kolesnikov"
+md Kolesnikov
+cd Kolesnikov
+rem create Folder "Alexandr"
+md Alexandr
+rem create Folder "Dmitrievich"
+md Dmitrievich
+pause
